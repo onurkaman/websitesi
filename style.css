@@ -1,0 +1,71 @@
+body
+{background-image: url(2.jpg);
+height: 100vh;
+background-size: cover;
+background-position: center;}
+ 
+ .ana-þekil
+ {list-style: none;
+ margin-top: 30px;
+ 
+ }
+ .ana-þekil li
+ {
+	 display: inline-block;
+	 
+	 
+	 
+	 
+ }
+ .ana-þekil li a
+ {padding: 30px;
+ color: white;
+ font-family: "Roboto", sans-serif;
+ font-size: 15px;
+ text-decoration: none;
+ 
+ 
+	
+ }
+ .ana-þekil .active a
+ 
+ {
+	 border: 1px solid white;
+	 
+	
+ }
+ .ana-þekil li a:hover
+ {
+	 border: 1px solid white;
+ } 
+ #Baþlýðým {
+	 font-family: "Roboto", sans-serif;
+    color: white;
+    padding: 40px;
+  text-align: leftwards;
+ }
+ 
+ 
+ #Yazým {
+	 font-family: "Roboto", sans-serif;
+	 color: white;
+	 text-align: right-side;
+	 padding: 10px;
+	 
+ }
+ .sosyal-medya
+ {list-style: none;
+ left: 375px;
+ position: absolute;
+ 
+ }
+ .sosyal-medya li
+ {
+	 display: inline-block;
+	 
+ }
+ .sosyal-medya li a
+ {padding: 75px;
+ 
+ }
+  
